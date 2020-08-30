@@ -1,0 +1,21 @@
+more than 2e6 steps, trick was to slowloy decrease epsilon, lr=1e-6, batch_Szie=1, mem_size=10000
+DQLAgent won 74.0 from Call_Any
+DQLAgent won 75.5 from Raise_Any
+DQLAgent won 81.0 from Random
+DQLAgent won 65.9 from Simple_Rational84
+Call_Any won 25.2 from DQLAgent
+Call_Any won 47.199999999999996 from Raise_Any
+Call_Any won 51.0 from Random
+Call_Any won 1.6000000000000014 from Simple_Rational84
+Raise_Any won 24.0 from DQLAgent
+Raise_Any won 52.300000000000004 from Call_Any
+Raise_Any won 65.9 from Random
+Raise_Any won 8.699999999999996 from Simple_Rational84
+Random won 19.399999999999995 from DQLAgent
+Random won 48.5 from Call_Any
+Random won 36.3 from Raise_Any
+Random won 21.299999999999997 from Simple_Rational84
+Simple_Rational84 won 38.2 from DQLAgent
+Simple_Rational84 won 98.6 from Call_Any
+Simple_Rational84 won 90.2 from Raise_Any
+Simple_Rational84 won 78.10000000000001 from Random
