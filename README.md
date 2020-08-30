@@ -25,7 +25,11 @@ mod_step_function: Testing the agent versus human player
 
 Results:
 more than 2e6 steps, linearly decrease epsilon, lr=1e-6, batch_Szie=512, mem_size=10000
+
 DQLAgent won 94.0 from Call_Any
+
 DQLAgent won 95.5 from Raise_Any
+
 DQLAgent won 81.0 from Random
+
 DQLAgent won 85.9 from Simple_Rational84
